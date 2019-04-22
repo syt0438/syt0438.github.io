@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>麟书博客</title>
+  
+  <subtitle>麟书博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://syt0438.github.io/"/>
+  <updated>2019-04-22T03:07:32.046Z</updated>
+  <id>https://syt0438.github.io/</id>
+  
+  <author>
+    <name>麟书</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>18岁程序员的自学之路</title>
+    <link href="https://syt0438.github.io/2019/04/20/18-sui-cheng-xu-yuan-de-zi-xue-zhi-lu/"/>
+    <id>https://syt0438.github.io/2019/04/20/18-sui-cheng-xu-yuan-de-zi-xue-zhi-lu/</id>
+    <published>2019-04-20T10:43:58.000Z</published>
+    <updated>2019-04-22T03:07:32.046Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;所谓成功，就是不断的经历失败，并且始终保持热情。——丘吉尔&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;不良少年的寻梦路&quot;&gt;&lt;a href=&quot;#不良少年的寻梦路&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="程序人生" scheme="https://syt0438.github.io/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+      <category term="程序人生" scheme="https://syt0438.github.io/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+      <category term="学习经验" scheme="https://syt0438.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>变革者——献给所有软件开发自学者</title>
+    <link href="https://syt0438.github.io/2019/04/19/bian-ge-zhe-xian-gei-suo-you-ruan-jian-kai-fa-zi-xue-zhe/"/>
+    <id>https://syt0438.github.io/2019/04/19/bian-ge-zhe-xian-gei-suo-you-ruan-jian-kai-fa-zi-xue-zhe/</id>
+    <published>2019-04-19T06:02:57.000Z</published>
+    <updated>2019-04-22T03:07:32.046Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;真正的改变源于对自己无能的痛恨！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2014年，美国最佳职业排行榜中，软件开发者已经超过医生名列榜首了，程序员也已成为当下最热门的职业之一。&lt;/p&gt;
+&lt;p&gt;很多人想成为一名软
+        
+      
+    
+    </summary>
+    
+      <category term="程序人生" scheme="https://syt0438.github.io/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+      <category term="程序人生" scheme="https://syt0438.github.io/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+      <category term="学习经验" scheme="https://syt0438.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+</feed>
