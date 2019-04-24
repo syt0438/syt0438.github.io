@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://syt0438.github.io/"/>
-  <updated>2019-04-22T03:07:32.046Z</updated>
+  <updated>2019-04-24T12:09:26.282Z</updated>
   <id>https://syt0438.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何用责任链模式优雅的实现数据导入？</title>
+    <link href="https://syt0438.github.io/2019/04/24/ru-he-yong-ze-ren-lian-mo-shi-you-ya-de-shi-xian-shu-ju-dao-ru/"/>
+    <id>https://syt0438.github.io/2019/04/24/ru-he-yong-ze-ren-lian-mo-shi-you-ya-de-shi-xian-shu-ju-dao-ru/</id>
+    <published>2019-04-24T04:33:00.000Z</published>
+    <updated>2019-04-24T12:09:26.282Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;责任链模式&quot;&gt;&lt;a href=&quot;#责任链模式&quot; class=&quot;headerlink&quot; title=&quot;责任链模式&quot;&gt;&lt;/a&gt;责任链模式&lt;/h2&gt;&lt;h3 id=&quot;标准的责任链模式&quot;&gt;&lt;a href=&quot;#标准的责任链模式&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="https://syt0438.github.io/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://syt0438.github.io/tags/Java/"/>
+    
+      <category term="设计模式" scheme="https://syt0438.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>18岁程序员的自学之路</title>
